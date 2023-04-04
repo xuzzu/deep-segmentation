@@ -1,5 +1,8 @@
 # U-Net for Lung Segmentation
 This project implements a U-Net model for the task of lung segmentation on medical images. The model is implemented in PyTorch and can be used for other image segmentation tasks as well.
+
+![plot](plot.jpg)
+
 ## Files
 The following files are included in the project:
 
@@ -29,7 +32,6 @@ Clone the repository to run the code locally:
 
 ```
 
-![plot](plot.jpg)
 
 ### Training
 To train the U-Net model, run the Training.ipynb notebook. This notebook contains code for loading the dataset, training the model, and saving the trained weights to disk.
