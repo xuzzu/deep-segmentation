@@ -29,7 +29,7 @@ Clone the repository to run the code locally:
 
 ```
 
-![plot](Plot.jpg)
+![plot](plot.jpg)
 
 ### Training
 To train the U-Net model, run the Training.ipynb notebook. This notebook contains code for loading the dataset, training the model, and saving the trained weights to disk.
